@@ -8,7 +8,7 @@ and tested with, newer versions may work.
 # Requirements
   1. Microchip XC32 2.15
   2. Microchip Harmony 2.06
-  3. Microchip MPLAB X IDE 4.15
+  3. Microchip MPLAB X IDE 4.10
   4. Microchip ICD 3 or newer.
   6. Mikroelektronika print mikromedia Plus for PIC32MX7 https://www.mikroe.com/mikromedia-4-pic32mx7
   7. Mikroelektronika print mikromedia Plus for PIC32MX7 shield https://www.mikroe.com/mikromedia-4-pic32mx7-shield
